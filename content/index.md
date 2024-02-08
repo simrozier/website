@@ -18,6 +18,7 @@ h2 {
 
 .research-image {
   display: inline;
+  max-width: 100%;
 }
 
 </style>
@@ -45,7 +46,7 @@ During my PhD with Christophe Pichon and Jean-Baptiste Fouvry, I developed and i
 {{< rawhtml >}}
 <p>
   <div class="img-and-caption">
-    <img class="research-image" src="figEtaSurfaceMatrix_774a583.jpg" alt="???" style="height: 200px;">
+    <img class="research-image" src="figEtaSurfaceMatrix_774a583.jpg" alt="???" style="max-height: 200px;">
     <figcaption class="research-image-caption">Growth rate of linear instabilities in spherical stellar clusters as a function of anisotropy (q) and rotation (α). The blue plane represents a region where no instabilities were detected. The elongated dark surface on the bottom right is the region of rotationally enhanced radial orbit instability. There, the cluster is radially biased (q&gt;0), and the instability is enhanced by rotation (increasing α). The large orange surface on the top corresponds to the region of violent instability in tangentially anisotropic (q&lt;0), fast rotators (α&gt;0.5). This surface is a discovery of our work. Extracted from <a href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487..711R/abstract">Rozier <i>et al.</i>, 2019</a>.</figcaption>
   </div>
 </p>
@@ -60,7 +61,7 @@ Later, I developed a new matrix method to compute the time evolution a stellar s
 {{< rawhtml >}}
 <p>
   <div class="img-and-caption">
-    <img class="research-image" src="figResponseLMCGrid_8da81b9.jpg" alt="???" style="height: 400px;">
+    <img class="research-image" src="figResponseLMCGrid_8da81b9.jpg" alt="???" style="max-height: 400px;">
     <figcaption class="research-image-caption">Evolution of the overdensities in the Milky Way's stellar halo during the infall of the Large Magellanic Cloud. Extracted from <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220105589R/abstract">Rozier <i>et al.</i>, 2022</a></figcaption>
   </div>
 </p>
