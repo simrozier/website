@@ -69,6 +69,8 @@ Later, I developed a new matrix method to compute the time evolution a stellar s
 
 ### Collisionless relaxation of tidally stripped dark matter subhalos
 
+In [Rozier & Errani (2024)](https://ui.adsabs.harvard.edu/abs/2024arXiv240203430R/abstract), I complemented linear theory with two new methods: an efficient way to compute the steady state reached by a stellar model initially placed slightly out of equilibrium, and a way to compute moments of the velocity distribution of a stellar system along its collisionless relaxation. I applied these new methods to dark matter subhalo models undergoing tidal stripping, which showed that (i) the central cusp of a dark matter suhalo does not completely protect it from the effect of the tide, and (ii) collisionless relaxation can result in a tangentially anisotropic equilibrium, even when the initial velocity distribution is isotropic. 
+
 ## CV
 
 ### Positions
