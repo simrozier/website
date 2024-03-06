@@ -82,7 +82,7 @@ University of Strasbourg, France - School of Physics
 
 ### Awards and Fellowships
 
-* 2023 - 2035: Newton International Fellowship -- Royal Society
+* 2023 - 2025: Newton International Fellowship -- Royal Society
 * 2022: Marie Sklodowska-Curie Action -- Postoctoral Fellowship -- Seal of Excellence
 
 ### Teaching and Advising
