@@ -83,7 +83,7 @@ University of Strasbourg, France - School of Physics
 ### Awards and Fellowships
 
 * 2023 - 2035: Newton International Fellowship -- Royal Society
-* Wiping the dishes seal of excellence
+* 2022: Marie Sklodowska-Curie Action -- Postoctoral Fellowship -- Seal of Excellence
 
 ### Teaching and Advising
 
